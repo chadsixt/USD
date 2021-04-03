@@ -1,0 +1,5 @@
+Number, Name, Score
+01, Bill, 100
+02, Mary, 95
+03, James, 80
+04, Mike, 75
